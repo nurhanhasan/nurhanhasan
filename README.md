@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurhan Hasan</h1>
-<h3 align="center">Cloud | DevSecOps | Site Reliability | Platform Engineer | Project Manager</h3>
+<h3 align="center">Cloud | DevSecOps | Site Reliability | Platform Engineer | AI Enthusiast | Project Manager</h3>
 
 
 <h3 align="left">Connect with me:</h3>
