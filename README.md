@@ -27,7 +27,7 @@
 <h4 align="left">Infrastructure and Configuration as Code:</h4>
 <p align="left"> 
  <a alt="terraform" href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="40" height="40"/></a>
- <a alt="ansible" href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://icon2.cleanpng.com/20180917/gvp/kisspng-starmetro-logo-product-content-computer-icons-5ba0580ea74853.5621064615372349586852.jpg" width="40" height="40"/></a>
+ <a alt="ansible" href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://docs.ansible.com/images/community_logo_black.svg" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Container-based Technologies:</h4>
@@ -54,7 +54,7 @@
  <a alt="gitlab ci" href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40"/></a>
  <a alt="jenkins" href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
  <a alt="sonarqube" href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40"/></a>
- <a alt="trivy" href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"><img src="https://trivy.dev/v0.16.0/imgs/logo.png" width="40" height="40"/></a>
+ <a alt="trivy" href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"><img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" width="40" height="40"/></a>
  <a alt="grype" href="https://github.com/anchore/grype" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/5199289/136855393-d0a9eef9-ccf1-4e2b-9d7c-7aad16a567e5.png" width="30" height="40"/></a>
  <a alt="owasp zap" href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1200/1*ehhGqaKCKVnOw3Nlu1ajmA.png" width="50" height="40"/></a>
  <a alt="defectdojo" href="https://www.defectdojo.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/0*Sg5PeeRSQ-9dNd7m" width="40" height="40"/></a>
@@ -72,4 +72,4 @@
  <a alt="react" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurhanhasan&show_icons=true&locale=en&layout=compact" alt="nurhanhasan" /></p>
+<p><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nurhanhasan&show_icons=true&theme=tokyonight" alt="nurhanhasan" /></p>
