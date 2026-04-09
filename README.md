@@ -51,9 +51,16 @@
 
 <h4 align="left">CICD and SecOps</h4>
 <p align="left"> 
+
+ 
  <a alt="gitlab ci" href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40"/></a>
+ <a alt="GitHub Actions" href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/09/GitHub-Actions-Logo-Vector.svg-.png" width="40" height="40"/></a>
+ <a alt="AWS CodePipeline" href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/data/128x128/2015/08/28/92223_copy_512x512.png" width="40" height="40"/></a>
+ <a alt="Azure DevOps" href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"><img src="https://img.favpng.com/11/23/0/azure-devops-logo-3c9DiaaQ.jpg" width="60" height="60"/></a>
+ <a alt="Google Cloud Build" href="https://cloud.google.com/build" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="40" height="40"/></a>
+ <a alt="Bitbucket Pipeline" href="https://www.atlassian.com/software/bitbucket/features/pipelines" target="_blank" rel="noreferrer"><img src="https://www.manageengine.com/active-directory-360/marketplace/images/logos/marketplace-bitbucket-logo-24.png" width="50" height="45"/></a>
  <a alt="jenkins" href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
- <a alt="sonarqube" href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40"/></a>
+ <a alt="sonarqube" href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="60" height="60"/></a>
  <a alt="trivy" href="https://aquasecurity.github.io/trivy/" target="_blank" rel="noreferrer"><img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" width="40" height="40"/></a>
  <a alt="grype" href="https://github.com/anchore/grype" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/5199289/136855393-d0a9eef9-ccf1-4e2b-9d7c-7aad16a567e5.png" width="30" height="40"/></a>
  <a alt="owasp zap" href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1200/1*ehhGqaKCKVnOw3Nlu1ajmA.png" width="50" height="40"/></a>
