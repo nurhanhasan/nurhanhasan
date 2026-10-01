@@ -56,7 +56,7 @@
  <a alt="gitlab ci" href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40"/></a>
  <a alt="GitHub Actions" href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://vectorseek.com/wp-content/uploads/2023/09/GitHub-Actions-Logo-Vector.svg-.png" width="40" height="40"/></a>
  <a alt="AWS CodePipeline" href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/data/128x128/2015/08/28/92223_copy_512x512.png" width="40" height="40"/></a>
- <a alt="Azure DevOps" href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"><img src="https://img.favpng.com/11/23/0/azure-devops-logo-3c9DiaaQ.jpg" width="60" height="60"/></a>
+ <a alt="Azure DevOps" href="https://azure.microsoft.com/en-us/products/devops/" target="_blank" rel="noreferrer"><img src="http://techsoup.org/sitecollectionimages/product/prod-ms-azure-devops-server_big.png" width="60" height="60"/></a>
  <a alt="Google Cloud Build" href="https://cloud.google.com/build" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="40" height="40"/></a>
  <a alt="Bitbucket Pipeline" href="https://www.atlassian.com/software/bitbucket/features/pipelines" target="_blank" rel="noreferrer"><img src="https://www.manageengine.com/active-directory-360/marketplace/images/logos/marketplace-bitbucket-logo-24.png" width="50" height="45"/></a>
  <a alt="jenkins" href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
